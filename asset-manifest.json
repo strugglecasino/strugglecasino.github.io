@@ -1,13 +1,11 @@
 {
-  "main.js": "static/js/main.1bd771e2.js",
-  "main.js.map": "static/js/main.1bd771e2.js.map",
+  "main.js": "static/js/main.b70869bb.js",
+  "main.js.map": "static/js/main.b70869bb.js.map",
   "static\\media\\icon_btc.svg": "static/media/icon_btc.02230cca.svg",
   "static\\media\\icon_eye.svg": "static/media/icon_eye.647fcc34.svg",
-  "static\\media\\icon_eye_close.svg": "static/media/icon_eye_close.e67b7a08.svg",
+  "static\\media\\icon_eye_close.svg": "static/media/icon_eye_close.33742c66.svg",
   "static\\media\\icon_paperplane.svg": "static/media/icon_paperplane.f4276ca3.svg",
-  "static\\media\\icon_pourcent.svg": "static/media/icon_pourcent.e58b3b07.svg",
   "static\\media\\icon_robot.svg": "static/media/icon_robot.9cd6a95e.svg",
-  "static\\media\\icon_x.svg": "static/media/icon_x.d5456f4c.svg",
   "static\\media\\main.less": "static/media/main.6081aeee.less",
   "static\\media\\struggle.svg": "static/media/struggle.8f5f4aa1.svg"
 }
