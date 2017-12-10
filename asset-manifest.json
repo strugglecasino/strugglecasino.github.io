@@ -1,9 +1,6 @@
 {
-  "main.js": "static/js/main.6ce01b5a.js",
-  "main.js.map": "static/js/main.6ce01b5a.js.map",
-  "static\\media\\icomoon.eot?8lz58s": "static/media/icomoon.efca9633.eot",
-  "static\\media\\icomoon.svg?8lz58s": "static/media/icomoon.3b3a7d16.svg",
-  "static\\media\\icomoon.ttf?8lz58s": "static/media/icomoon.44133366.ttf",
-  "static\\media\\icomoon.woff?8lz58s": "static/media/icomoon.815532d9.woff",
-  "static\\media\\struggle.svg": "static/media/struggle.d74101b8.svg"
+  "main.css": "static/css/main.7390c896.css",
+  "main.css.map": "static/css/main.7390c896.css.map",
+  "main.js": "static/js/main.f8aeb088.js",
+  "main.js.map": "static/js/main.f8aeb088.js.map"
 }
